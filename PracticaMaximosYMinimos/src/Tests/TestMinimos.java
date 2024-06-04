@@ -17,7 +17,7 @@ class TestMinimos {
 	}
 	
 	@Test
-	public void MaximoDe3Numeros() {
+	public void MinimoDe3Numeros() {
 		int num1 = 9; 
 		int num2 = 3; 
 		int num3 = 7;
